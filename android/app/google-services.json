@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "794550702558",
+    "firebase_url": "https://notificacao-7c795.firebaseio.com",
+    "project_id": "notificacao-7c795",
+    "storage_bucket": "notificacao-7c795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794550702558:android:032d4b89939e9842",
+        "android_client_info": {
+          "package_name": "com.example.shushbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794550702558-kob762e6b2asgci5ueku1rs8kth5t8c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5NibPIc8EzRZdx8iz5gGAV7UWksZysw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

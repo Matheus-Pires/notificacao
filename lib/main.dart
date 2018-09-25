@@ -1,6 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 
-void main() => runApp(new MyApp());
+void main() {
+  final FirebaseMessaging _firebaseMessaging = new FirebaseMessaging();
+
+  _firebaseMessaging.requestNotificationPermissions();
+
+  runApp(new MyApp());
+}
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
